@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 # Get user input
 name = input("What is your name: ")
 
