@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 def divide_numbers():
     try:
         # Taking input from the user
