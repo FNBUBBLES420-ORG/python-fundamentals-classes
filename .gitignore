@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+env/
+.venv/
+
+# Environment variables and secrets
+.env
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules and logs
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Custom ignore files for specific scripts that are for personal use or tests
+te*hee*.py
+videogamefan*.py
+
+# Ignore all files in a directory
+**/ignore_directory/
+
+# Ignore all folders in a directory
+**/ignore_directory/**
+
+# Ignore .txt files in the root directory
+/*.txt
