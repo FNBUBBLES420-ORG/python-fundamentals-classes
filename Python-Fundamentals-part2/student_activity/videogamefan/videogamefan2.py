@@ -23,4 +23,4 @@ my_car = Car("Toyota", "Corolla")
 my_car.display_info()  # Display the car details
 my_car.drive()         # Call the drive method
 
-# PASS
+# STUDENT PASSED ACTIVITY
