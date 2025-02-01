@@ -34,11 +34,11 @@ Welcome to the Python Fundamentals Course! This comprehensive course is designed
 
 - **Error Handling**
   - Managing exceptions and errors to build robust applications.
-  - [Error-Handling(10 mins).py](./Python-Fundamentals-part2/Error-Handling(10 mins).py)
+  - [Error-Handling-10 mins.py](./Python-Fundamentals-part2/Error-Handling-10mins.py)
 
 - **File Handling**
   - Reading from and writing to files.
-  - [FileHandling(10 mins).py](./Python-Fundamentals-part2/FileHandling(10 mins).py)
+  - [FileHandling(10 mins).py](./Python-Fundamentals-part2/FileHandling-10mins.py)
 
 - **Classes and Objects**
   - Introduction to Object-Oriented Programming in Python.
@@ -46,15 +46,15 @@ Welcome to the Python Fundamentals Course! This comprehensive course is designed
 
 - **Final Project**
   - Applying learned skills to complete a comprehensive project.
-  - [Final-Project(10 mins).py](./Python-Fundamentals-part2/Final-Project(10 mins).py)
+  - [Final-Project(10 mins).py](./Python-Fundamentals-part2/Final-Project-10mins.py)
 
 - **Advanced Loops**
   - Deep dive into loops for more complex iterations.
-  - [Advanced-Loops(10 mins).py](./Python-Fundamentals-part2/Advanced-Loops(10 mins).py)
+  - [Advanced-Loops(10 mins).py](./Python-Fundamentals-part2/Advanced-Loops-10mins.py)
 
 - **Wrap Up and Q&A**
   - Recap of the course and a session to clear any doubts.
-  - [Wrap-up-and-Q&A(5 mins).py](./Python-Fundamentals-part2/Wrap-up-and-Q&A(5 mins).py)
+  - [Wrap-up-and-Q&A(5 mins).py](./Python-Fundamentals-part2/Wrap-Up-and-Q&A-5mins.py)
 
 - **Student Activities**
   - Further exercises and challenges for students.
