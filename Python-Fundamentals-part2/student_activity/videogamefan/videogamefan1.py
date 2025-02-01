@@ -22,4 +22,4 @@ def divide_numbers():
 # Call the function to run the program
 divide_numbers()
 
-# PASS
+# STUDENT PASSED ACTIVITY
