@@ -16,4 +16,4 @@ with open("name.txt", "r") as file:
 print("Your saved name is:", saved_name)
 
 
-# PASS
+# STUDENT PASSED ACTIVITY
