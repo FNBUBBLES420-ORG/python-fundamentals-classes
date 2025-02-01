@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 # Define the Car class
 class Car:
     def __init__(self, brand, model):
