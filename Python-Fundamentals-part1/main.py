@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 import os
 from dotenv import load_dotenv
 import requests
@@ -40,3 +43,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# EXAMPLES NOT FOR USE
+# --------------------
