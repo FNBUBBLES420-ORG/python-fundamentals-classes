@@ -44,10 +44,9 @@ def calculate_six_month_income(monthly_salary):
     six_month_income = monthly_salary * 6
     return six_month_income
 
-# Example usage
-monthly_salary = 1000
 six_month_income = calculate_six_month_income(monthly_salary)
-print(f"The income for 6 months is ${six_month_income:.2f}")
+print(f"The income for 6 months is ${six_month_income:.2f}")	
+print("Income for 6 months has been calculated.")
 
 
 # STUDENT PASSED ACTIVITY
