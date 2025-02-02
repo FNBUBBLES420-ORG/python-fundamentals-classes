@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 import os
 import time
 
@@ -31,3 +34,6 @@ def calculate_income(monthly_salary):
 monthly_salary = 1000
 mid_income = calculate_income(monthly_salary)
 print(f"The mid income for 6 months is ${mid_income}")
+
+
+# STUDENT PASSED ACTIVITY
