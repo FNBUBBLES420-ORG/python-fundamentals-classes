@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 # Create a class called ToDoList
 # The class should have the following methods:
 # add_task(task) - This method should add a task to the list of tasks.
@@ -36,3 +39,6 @@ my_list.view_tasks()  # View all tasks in the list
 # The remove_task() method removes a task from the tasks list if it exists.
 # The view_tasks() method prints each task in the tasks list.
 # An instance of the ToDoList class is created with the variable my_list.
+
+# EXAMPLES NOT FOR USE
+# --------------------
