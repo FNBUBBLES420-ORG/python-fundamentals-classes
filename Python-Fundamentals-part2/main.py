@@ -1,3 +1,6 @@
+# EXAMPLES NOT FOR USE
+# --------------------
+
 for row in range(3):  # Outer loop iterates over rows
     for col in range(3):  # Inner loop iterates over columns
         print(f"({row}, {col})", end=" ")  # Print the current row and column, stay on the same line
@@ -33,3 +36,6 @@ my_car.drive()  # Output: Toyota says drive!
 # The drive() method prints the brand of the car followed by "says drive!".
 # The object my_car is an instance of the Car class.
 # The drive() method is called on the my_car object, which prints "Toyota says drive!".
+
+# EXAMPLES NOT FOR USE
+# --------------------
